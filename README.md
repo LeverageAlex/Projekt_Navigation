@@ -4,6 +4,7 @@ I maintained the bus data through OpenStreetMap and read them at every start fro
 ![startScreen](assets/calculated_route.PNG)
 ![route to sciencePark](assets/sciencePark.PNG)
 ![compare to real Router](assets/comparison.png)
+Map data ©2022 Google  
 As seen here, the routes almost look like the real ones. However, they are **not** oriented to the north.  
 
 
